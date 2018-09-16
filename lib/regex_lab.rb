@@ -22,7 +22,3 @@ end
 # def starts_with_a_vowel?(word)
 #   word.match(/^[aeiouAEIOU]\w+/) ? true : false
 # end
-
-# def valid_phone_number?(phone)
-#   phone.match(/([0-9] *?){10}|(\([0-9]{3}\)(([0-9]{3}-[0-9]{4})|[0-9]{7})\b)/) ? true : false
-# end
